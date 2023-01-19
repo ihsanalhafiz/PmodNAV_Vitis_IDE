@@ -1,0 +1,14 @@
+22:24:27 DEBUG : Logs will be stored at 'C:/Users/ihsan/workspace/PmodNAV_Vitis_IDE/IDE.log'.
+22:24:30 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\ihsan\workspace\PmodNAV_Vitis_IDE\temp_xsdb_launch_script.tcl
+22:24:30 INFO  : Platform repository initialization has completed.
+22:24:30 INFO  : Registering command handlers for Vitis TCF services
+22:24:33 INFO  : XSCT server has started successfully.
+22:24:34 INFO  : plnx-install-location is set to ''
+22:24:34 INFO  : Successfully done setting XSCT server connection channel  
+22:24:34 INFO  : Successfully done query RDI_DATADIR 
+22:24:34 INFO  : Successfully done setting workspace for the tool. 
+22:25:16 INFO  : Platform 'PmodNAV_w_ipcore' is added to custom repositories.
+22:25:44 INFO  : Result from executing command 'getProjects': PmodNAV_w_ipcore
+22:25:44 INFO  : Result from executing command 'getPlatforms': PmodNAV_w_ipcore|C:/Users/ihsan/workspace/PmodNAV_Vitis_IDE/PmodNAV_w_ipcore/export/PmodNAV_w_ipcore/PmodNAV_w_ipcore.xpfm
+22:25:50 INFO  : Checking for BSP changes to sync application flags for project 'PmodNAV_w_ipcore_app'...
+22:26:13 INFO  : Checking for BSP changes to sync application flags for project 'PmodNAV_w_ipcore_app'...
